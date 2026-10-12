@@ -10,5 +10,5 @@ torch
 chromadb
 rank_bm25
 ddgs
-streamlit
+gradio
 requests

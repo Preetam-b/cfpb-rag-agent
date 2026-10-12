@@ -30,7 +30,10 @@ def classify_node(state):
     text=state["complaint_text"]
     bert_category,bert_confidence=predict_category(text)
 
-    if bert_confidence>=CONFIDENCE_THRESHOLD:
+    # predict_category returns (None, 0.0) when USE_BERT=false (BERT not
+    # loaded at all on this deploy target) -- that's treated the same as
+    # "below confidence threshold", routing straight to the LLM fallback.
+    if bert_category is not None and bert_confidence>=CONFIDENCE_THRESHOLD:
         state["category"]=bert_category
         state["confidence"]=bert_confidence
         state["classifier_used"]="bert"
@@ -38,9 +41,16 @@ def classify_node(state):
 
     llm_category,llm_confidence=classify_with_llm(text)
     if llm_category is None:
-        state["category"]=bert_category
-        state["confidence"]=bert_confidence
-        state["classifier_used"]="bert"
+        if bert_category is not None:
+            state["category"]=bert_category
+            state["confidence"]=bert_confidence
+            state["classifier_used"]="bert"
+        else:
+            # BERT unavailable on this deploy AND the LLM fallback failed
+            # (e.g. Groq hiccup) -- last-resort default rather than crashing.
+            state["category"]=LABELS[0]
+            state["confidence"]=0.0
+            state["classifier_used"]="failed_defaulted"
     else:
         state["category"]=llm_category
         state["confidence"]=llm_confidence
