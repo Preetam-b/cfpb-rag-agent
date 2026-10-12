@@ -1,0 +1,10 @@
+Internal Complaint-Handling Guidance
+Category: Debt Collection
+
+When a customer complains about debt collection contact:
+1. Determine if the customer has received a validation notice for the debt. If not, provide one before continuing collection communication.
+2. If the customer disputes owing the debt, pause active collection until the debt is validated.
+3. Check contact frequency: repeated or continuous calls intended to annoy, abuse, or harass a customer are prohibited, regardless of the channel (phone, text, email).
+4. If the customer requests no further contact, log this immediately and route to the compliance team before any further communication attempts.
+5. If the customer indicates the debt may belong to someone deceased, route to the estate-handling procedure rather than continuing standard collection.
+6. Escalate any complaint alleging harassment to a human reviewer, regardless of confidence in resolving it automatically.

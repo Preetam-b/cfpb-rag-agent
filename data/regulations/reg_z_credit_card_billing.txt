@@ -1,0 +1,14 @@
+Regulation Z - 12 CFR 1026.13 - Billing Error Resolution
+Category: Credit Card
+
+(a) Definition of billing error. For purposes of this section, the term billing error means:
+(1) A reflection on or with a periodic statement of an extension of credit that is not made to the consumer or to a person who has actual, implied, or apparent authority to use the consumer's credit card or open-end credit plan.
+(2) A reflection on or with a periodic statement of an extension of credit that is not identified in accordance with the requirements of the applicable sections.
+(4) A reflection on a periodic statement of the creditor's failure to credit properly a payment or other credit issued to the consumer's account.
+(5) A reflection on a periodic statement of a computational or similar error of an accounting nature that is made by the creditor.
+
+(c) Time for resolution; general procedures.
+(1) The creditor shall mail or deliver written acknowledgment to the consumer within 30 days of receiving a billing error notice, unless the creditor has complied with the appropriate resolution procedures within that 30-day period.
+(2) The creditor shall comply with the appropriate resolution procedures within 2 complete billing cycles (but in no event later than 90 days) after receiving a billing error notice.
+
+A creditor may correct a billing error in the manner and amount asserted by the consumer without the investigation or determination normally required. If a creditor follows this procedure, no presumption is created that a billing error occurred.

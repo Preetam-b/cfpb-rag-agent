@@ -1,0 +1,8 @@
+Regulation X - 12 CFR 1024.17 - Escrow Accounts
+Category: Mortgages and Loans
+
+A servicer must conduct an escrow account analysis to: determine appropriate target balances, compute the borrower's monthly payments for the next escrow computation year, and determine whether shortages, surpluses, or deficiencies exist.
+
+A servicer must submit an annual escrow account statement to the borrower within 30 calendar days of the end of the escrow account computation year.
+
+Deficiency means a negative balance in an escrow account. If a servicer advances funds for a borrower, it must perform an escrow account analysis before seeking repayment of the deficiency.

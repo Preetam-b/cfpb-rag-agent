@@ -1,0 +1,10 @@
+Internal Complaint-Handling Guidance
+Category: Credit Reporting
+
+When a customer disputes information on their credit report:
+1. Identify whether the dispute is about an account they don't recognize, incorrect balance/terms, or suspected identity theft.
+2. Request supporting documentation only if the customer hasn't already provided enough to identify the account and the basis of the dispute (e.g., a police report for identity theft).
+3. Do not require a specific proprietary form before investigating; a written or verbal dispute with enough detail must be accepted.
+4. Conduct a reasonable investigation of the disputed information — do not close a dispute as "verified" without checking the underlying record.
+5. Do not mark a dispute as frivolous unless it clearly lacks any specific claim or supporting basis.
+6. Communicate the outcome to the customer in plain language, including what was changed on their report, if anything.

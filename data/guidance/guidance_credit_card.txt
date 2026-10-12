@@ -1,0 +1,10 @@
+Internal Complaint-Handling Guidance
+Category: Credit Card
+
+When a customer disputes a credit card charge:
+1. Confirm the charge date, amount, and merchant name with the customer.
+2. Check whether the charge matches a known billing error type: unauthorized use, incorrect amount, or a charge for goods/services never received.
+3. If unauthorized use is confirmed, cap the customer's liability at $50 and begin the billing-error investigation within 30 days of the notice.
+4. If the dispute involves a merchant issue (wrong item, non-delivery), advise the customer they may also contact the merchant directly, but the bank must still investigate under billing-error rules if requested in writing.
+5. Provide a written acknowledgment within 30 days and resolve within two billing cycles, or 90 days, whichever is sooner.
+6. Do not close the dispute as resolved until the customer confirms the outcome or the regulatory deadline is reached.

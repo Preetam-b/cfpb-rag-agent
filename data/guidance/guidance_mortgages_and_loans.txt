@@ -1,0 +1,10 @@
+Internal Complaint-Handling Guidance
+Category: Mortgages and Loans
+
+When a customer submits a mortgage servicing complaint:
+1. Check if the complaint qualifies as a "notice of error" — it must include the borrower's name, account-identifying information, and the specific error alleged.
+2. Errors related to loan origination or underwriting are handled by a different team; only servicing errors (payments, escrow, fees) are handled through this flow.
+3. If the complaint concerns a late fee, verify the payment date against the account record before assuming the fee was applied correctly.
+4. For escrow-related complaints, check the most recent escrow account analysis for shortages, surpluses, or deficiencies before responding.
+5. Acknowledge receipt of the complaint promptly and provide a substantive response within the applicable regulatory timeline.
+6. Never close a servicing-error complaint without confirming the underlying account record was actually reviewed.

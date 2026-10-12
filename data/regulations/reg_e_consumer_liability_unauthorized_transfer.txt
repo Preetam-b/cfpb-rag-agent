@@ -1,0 +1,6 @@
+Regulation E - 12 CFR 1005.6 - Liability of Consumer for Unauthorized Transfers
+Category: Retail Banking
+
+If a consumer notifies the financial institution within two business days after learning of the loss or theft of an access device, the consumer's liability shall not exceed the lesser of $50 or the amount of unauthorized transfers that occurred before notification.
+
+If the consumer fails to notify the institution within two business days, liability may increase to the lesser of $500 or a larger calculated sum. There are three possible tiers of consumer liability for unauthorized electronic fund transfers: up to $50, up to $500, or an unlimited amount, depending on when the unauthorized transfer occurred and when it was reported.

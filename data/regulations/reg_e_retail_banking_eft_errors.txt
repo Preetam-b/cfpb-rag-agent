@@ -1,0 +1,12 @@
+Regulation E - 12 CFR 1005.11 - Procedures for Resolving Errors (Retail Banking / EFT)
+Category: Retail Banking
+
+(a) Definition of error. The term "error" means:
+(i) An unauthorized electronic fund transfer;
+(ii) An incorrect electronic fund transfer to or from the consumer's account;
+(iii) The omission of an electronic fund transfer from a periodic statement;
+(iv) A computational or bookkeeping error made by the financial institution relating to an electronic fund transfer;
+(v) The consumer's receipt of an incorrect amount of money from an electronic terminal;
+(vii) The consumer's request for documentation or additional information to determine whether an error exists.
+
+A financial institution must comply with error resolution procedures even if the account has been closed, and even when a consumer reports loss or theft of an access device along with possible unauthorized use.

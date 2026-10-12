@@ -1,0 +1,10 @@
+Regulation X - 12 CFR 1024.35 - Error Resolution Procedures (Mortgages)
+Category: Mortgages and Loans
+
+(a) Notice of error. A servicer must comply with this section for any written notice from the borrower that asserts an error, includes the borrower's name, information identifying the mortgage loan account, and the error believed to have occurred.
+
+A qualified written request that asserts a servicing error is treated as a notice of error, and the servicer must comply with all applicable error-resolution requirements.
+
+Errors NOT covered by this section include: errors relating to loan origination, loan underwriting, or a subsequent sale/securitization of the loan.
+
+A servicer lacks a reasonable basis to impose fees that are not bona fide, such as a late fee for a payment that was not actually late, or a charge for a service that was not actually rendered.

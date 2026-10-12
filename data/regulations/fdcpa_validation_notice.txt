@@ -1,0 +1,10 @@
+Regulation F - 12 CFR 1006.34 - Notice for Validation of Debts
+Category: Debt Collection
+
+A debt collector must provide a consumer with validation information either:
+(i) by sending a validation notice in the initial communication, or within five days of it; or
+(ii) by providing the validation information orally in the initial communication.
+
+Exception: a debt collector is not required to send a validation notice if the consumer has already paid the debt before the notice would otherwise be required.
+
+For residential mortgage debt, a debt collector need not provide certain validation details if it instead provides the consumer, in the same communication, a copy of the most recent periodic mortgage statement.

@@ -1,0 +1,12 @@
+Regulation V - 12 CFR 1022.43 - Direct Disputes (Credit Reporting)
+Category: Credit Reporting
+
+(a) General rule. A furnisher must conduct a reasonable investigation of a direct dispute if it relates to:
+(1) The consumer's liability for a credit account or other debt with the furnisher, such as disputes relating to identity theft or fraud, individual or joint liability, or authorized user status.
+(2) The terms of a credit account or other debt with the furnisher, such as the type of account, principal balance, scheduled payment amount, or credit limit.
+
+A dispute notice must contain sufficient information to identify the account, the specific information disputed and the basis for the dispute, and supporting documentation reasonably required to substantiate the dispute (such as a police report, fraud affidavit, or account statements).
+
+(e) Duty of furnisher after receiving a direct dispute notice. The furnisher must conduct a reasonable investigation with respect to the disputed information.
+
+A furnisher is not required to investigate a dispute it has reasonably determined to be frivolous or irrelevant.

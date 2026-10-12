@@ -1,0 +1,10 @@
+Internal Complaint-Handling Guidance
+Category: Retail Banking
+
+When a customer disputes an electronic fund transfer or account issue:
+1. Determine if the dispute involves an unauthorized transfer, an incorrect transfer amount, or a transfer missing from a statement.
+2. If the customer reports a lost or stolen access device, apply liability limits based on how quickly it was reported: $50 if reported within two business days, higher limits if reported later.
+3. Error-resolution procedures still apply even if the customer's account has since been closed.
+4. Do not treat a request for transaction documentation as anything other than an error notice unless the customer clearly states it's for personal record-keeping only.
+5. Provide provisional credit to the customer's account if the investigation will take longer than the standard resolution window, per applicable rules.
+6. Confirm final resolution with the customer directly, not just through an automated notice.
