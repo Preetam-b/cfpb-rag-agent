@@ -1,4 +1,5 @@
-BERT_MODEL_PATH="C:/Users/mpree/cfpb-classifier/saved_models/bert_model"
+import os
+BERT_MODEL_PATH=os.getenv("BERT_MODEL_PATH","C:/Users/mpree/cfpb-classifier/saved_models/bert_model")
 LABELS=["Credit Card",
         "Credit Reporting",
         "Debt Collection",
